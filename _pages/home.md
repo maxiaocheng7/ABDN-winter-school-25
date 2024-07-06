@@ -10,27 +10,6 @@ excerpt: "<br/><br/>"
 ## News
 
 <div class="notice--info" markdown="1">
-  <h2 id="handbook">Proceedings</h2>
-  The proceedings of the [main conference](https://aclanthology.org/events/eacl-2024/), [Findings](https://aclanthology.org/events/findings-2024/), [workshops](https://aclanthology.org/events/eacl-2024/), [tutorials](https://aclanthology.org/events/eacl-2024/#2024eacl-tutorials), [system demonstrations](https://aclanthology.org/events/eacl-2024/#2024eacl-demo), and the [student research workshop](https://aclanthology.org/events/eacl-2024/#2024eacl-srw) are accessible through the ACL Anthology.
-</div>
-
-<div class="notice--info" markdown="1">
-  <h2 id="handbook">Best Papers</h2>
-  The best papers and awards are available to see at [this link](https://2024.eacl.org/program/best-paper/).
-</div>
-
-<div class="notice--info" markdown="1">
-  <h2 id="handbook">Notice</h2>
-  **16 March, 2024**. Please note that Malta uses UK sockets and driving is on the left.
-</div>
-
-<div class="notice--info" markdown="1">
-  <h2 id="handbook">Handbook Published</h2>
-  **February 28, 2024**. The handbook of EACL 2024 is now available at [this link](./downloads/handbook.pdf). It will be updated once the full program is finalized.
-</div>
-
-
-<div class="notice--info" markdown="1">
   <h2 id="early-reg-ends-soon">Early Registration Ending Soon</h2>
   **February 21, 2024**. Early bird registration ends this Friday, February 23, 2024, 11:59 PM (EDT). Also, there are still a few rooms available at the Radisson.
 </div>
@@ -90,6 +69,8 @@ excerpt: "<br/><br/>"
 </div>
 
 ## Welcome!
+
+XYZ. 
 
 Welcome to the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL). Continuing its mission of expanding and involving the science community of all European countries, EACL has selected the Malta community for the 18th EACL. Considering the importance of physical interaction among researchers, the conference will be held at the Hotel Radisson Blu, St. Julians, in Malta, from 17 to 22 of March, 2024. The conference will also feature the possibility to participate virtually. As the flagship European conference in the field of computational linguistics, EACL welcomes European and international researchers covering a broad spectrum of research areas that are concerned with computational approaches to natural language.
 
