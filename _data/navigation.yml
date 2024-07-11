@@ -1,17 +1,11 @@
 # main links
 main:
   - title: "Accommodation"
-    url: /accommodation/main/
+    url: /accommodation/hotel/
   - title: "City Guide"
     url: /cityguide
   - title: "Transport"
     url: /transport
-
-accommodation:
-  - title: Accommodation
-    children:
-      - title: "Winter Accomodation"
-        url: /accommodation/hotel/
 
 program:
   - title: Program
