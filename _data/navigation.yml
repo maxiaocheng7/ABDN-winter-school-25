@@ -12,7 +12,7 @@ main:
 accommodation:
   - title: Accommodation
     children:
-      - title: "Summer Accomodation"
+      - title: "Winter Accomodation"
         url: /accommodation/main/
       - title: "Hotel"
         url: /accommodation/hotel/
