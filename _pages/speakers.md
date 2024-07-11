@@ -13,7 +13,6 @@ sidebar:
    site="https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html"
    picture="/assets/images/speakers/se.jpg"
    institution="University of Sheffield & University of Mannheim"
-   email = "yuji.matsumoto@riken.jp"
 %}
 
 {% include committee-member.html
@@ -21,7 +20,6 @@ sidebar:
    site="https://www.andrew.cmu.edu/user/hbouamor/"
    picture="/assets/images/speakers/nm.jpg"
    institution="University of Sheffield"
-   email = "hbouamor@cmu.edu"
 %}
 
 {% include committee-member.html
@@ -29,7 +27,6 @@ sidebar:
    picture="/assets/images/speakers/er.jpg"
    site="https://research.facebook.com/people/pino-juan/"
    institution="University of Aberdeen"
-   email = "juancarabina@meta.com"
 %}
 
 {% include committee-member.html
@@ -37,7 +34,6 @@ sidebar:
    picture="/assets/images/speakers/es.jpg"
    site="https://research.facebook.com/people/pino-juan/"
    institution="University of Bristol"
-   email = "juancarabina@meta.com"
 %}
 
 {% include committee-member.html
@@ -45,7 +41,6 @@ sidebar:
    picture="/assets/images/speakers/yh.jpg"
    site="https://research.facebook.com/people/pino-juan/"
    institution="IBM Dublin"
-   email = "juancarabina@meta.com"
 %}
 
 {% include committee-member.html
