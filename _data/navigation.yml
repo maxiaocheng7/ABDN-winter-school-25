@@ -6,6 +6,8 @@ main:
     url: /cityguide
   - title: "Transport"
     url: /transport
+  - title: "Speakers"
+    url: /speakers    
 
 program:
   - title: Program
