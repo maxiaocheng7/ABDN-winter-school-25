@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "LLMs-Aberdeen 2025"
 title_separator          : "-"
 name                     : "LLMs-Aberdeen"
-description              : "Official website for the 2024 Conference of the European Chapter of the Association for Computational Linguistics"
+description              : "Official website for the 1st Winter School on LLMs in Aberdeen"
 url                      : "https://2024.eacl.org/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "acl-org/eacl-2024" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,8 +98,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -114,9 +112,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: https://www.facebook.com/eacl2021
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/acl-org/eacl-2024
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
