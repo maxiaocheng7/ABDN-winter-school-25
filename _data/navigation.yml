@@ -13,8 +13,6 @@ accommodation:
   - title: Accommodation
     children:
       - title: "Winter Accomodation"
-        url: /accommodation/main/
-      - title: "Hotel"
         url: /accommodation/hotel/
 
 program:
