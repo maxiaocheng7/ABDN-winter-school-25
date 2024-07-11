@@ -4,10 +4,9 @@ layout: single
 excerpt: "Speakers 2025 LLMs-Aberdeen"
 permalink: /speakers
 sidebar: 
-    nav: "committees"
+    nav: "speakers"
 ---
 
-## The following speakers have been confirmed
 {% include committee-member.html
    name="Steffen Eger"
    site="https://www.riken.jp/en/research/labs/aip/goalorient_tech/knowl_acqui/index.html"
