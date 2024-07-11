@@ -2,7 +2,7 @@
 title: Speakers
 layout: single
 excerpt: "Speakers 2025 LLMs-Aberdeen"
-permalink: /organization/
+permalink: /speakers
 sidebar: 
     nav: "committees"
 ---
