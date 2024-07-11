@@ -6,18 +6,8 @@ main:
     url: /cityguide
   - title: "Transport"
     url: /transport
-  - title: "Calls"
-    url: /calls/papers
-  - title: "Committees"
-    url: /committees/organization
-  - title: "Venue"
-    url: /venue
-  - title: "Registration"
-    url: /registration
-  - title: "Program"
+  - title: "Speakers"
     url: /program/main
-  - title: "Sponsors"
-    url: /sponsors
 
 accommodation:
   - title: Accommodation
